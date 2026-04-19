@@ -1,0 +1,15 @@
+C:\Users\clovi\OneDrive\Documents\FlightManagementSystem\FlightManagementSystem.Application\bin\Debug\net8.0\FlightManagementSystem.Application.deps.json
+C:\Users\clovi\OneDrive\Documents\FlightManagementSystem\FlightManagementSystem.Application\bin\Debug\net8.0\FlightManagementSystem.Application.dll
+C:\Users\clovi\OneDrive\Documents\FlightManagementSystem\FlightManagementSystem.Application\bin\Debug\net8.0\FlightManagementSystem.Application.pdb
+C:\Users\clovi\OneDrive\Documents\FlightManagementSystem\FlightManagementSystem.Application\bin\Debug\net8.0\FlightManagementSystem.Domain.dll
+C:\Users\clovi\OneDrive\Documents\FlightManagementSystem\FlightManagementSystem.Application\bin\Debug\net8.0\FlightManagementSystem.Domain.pdb
+C:\Users\clovi\OneDrive\Documents\FlightManagementSystem\FlightManagementSystem.Application\obj\Debug\net8.0\FlightManagementSystem.Application.csproj.AssemblyReference.cache
+C:\Users\clovi\OneDrive\Documents\FlightManagementSystem\FlightManagementSystem.Application\obj\Debug\net8.0\FlightManagementSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clovi\OneDrive\Documents\FlightManagementSystem\FlightManagementSystem.Application\obj\Debug\net8.0\FlightManagementSystem.Application.AssemblyInfoInputs.cache
+C:\Users\clovi\OneDrive\Documents\FlightManagementSystem\FlightManagementSystem.Application\obj\Debug\net8.0\FlightManagementSystem.Application.AssemblyInfo.cs
+C:\Users\clovi\OneDrive\Documents\FlightManagementSystem\FlightManagementSystem.Application\obj\Debug\net8.0\FlightManagementSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\clovi\OneDrive\Documents\FlightManagementSystem\FlightManagementSystem.Application\obj\Debug\net8.0\FlightMa.A1C476C3.Up2Date
+C:\Users\clovi\OneDrive\Documents\FlightManagementSystem\FlightManagementSystem.Application\obj\Debug\net8.0\FlightManagementSystem.Application.dll
+C:\Users\clovi\OneDrive\Documents\FlightManagementSystem\FlightManagementSystem.Application\obj\Debug\net8.0\refint\FlightManagementSystem.Application.dll
+C:\Users\clovi\OneDrive\Documents\FlightManagementSystem\FlightManagementSystem.Application\obj\Debug\net8.0\FlightManagementSystem.Application.pdb
+C:\Users\clovi\OneDrive\Documents\FlightManagementSystem\FlightManagementSystem.Application\obj\Debug\net8.0\ref\FlightManagementSystem.Application.dll

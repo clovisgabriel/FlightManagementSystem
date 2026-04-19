@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\clovi\\OneDrive\\Documents\\FlightManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C64C1F4F-B124-4C3A-BD53-B96598889A5F}|FlightManagementSystem.Infrastructure\\FlightManagementSystem.Infrastructure.csproj|c:\\users\\clovi\\onedrive\\documents\\flightmanagementsystem\\flightmanagementsystem.infrastructure\\persistence\\repositories\\flightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64C1F4F-B124-4C3A-BD53-B96598889A5F}|FlightManagementSystem.Infrastructure\\FlightManagementSystem.Infrastructure.csproj|solutionrelative:flightmanagementsystem.infrastructure\\persistence\\repositories\\flightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64C1F4F-B124-4C3A-BD53-B96598889A5F}|FlightManagementSystem.Infrastructure\\FlightManagementSystem.Infrastructure.csproj|c:\\users\\clovi\\onedrive\\documents\\flightmanagementsystem\\flightmanagementsystem.infrastructure\\persistence\\repositories\\airportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64C1F4F-B124-4C3A-BD53-B96598889A5F}|FlightManagementSystem.Infrastructure\\FlightManagementSystem.Infrastructure.csproj|solutionrelative:flightmanagementsystem.infrastructure\\persistence\\repositories\\airportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64C1F4F-B124-4C3A-BD53-B96598889A5F}|FlightManagementSystem.Infrastructure\\FlightManagementSystem.Infrastructure.csproj|c:\\users\\clovi\\onedrive\\documents\\flightmanagementsystem\\flightmanagementsystem.infrastructure\\persistence\\repositories\\aircraftrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64C1F4F-B124-4C3A-BD53-B96598889A5F}|FlightManagementSystem.Infrastructure\\FlightManagementSystem.Infrastructure.csproj|solutionrelative:flightmanagementsystem.infrastructure\\persistence\\repositories\\aircraftrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64C1F4F-B124-4C3A-BD53-B96598889A5F}|FlightManagementSystem.Infrastructure\\FlightManagementSystem.Infrastructure.csproj|c:\\users\\clovi\\onedrive\\documents\\flightmanagementsystem\\flightmanagementsystem.infrastructure\\persistence\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64C1F4F-B124-4C3A-BD53-B96598889A5F}|FlightManagementSystem.Infrastructure\\FlightManagementSystem.Infrastructure.csproj|solutionrelative:flightmanagementsystem.infrastructure\\persistence\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64C1F4F-B124-4C3A-BD53-B96598889A5F}|FlightManagementSystem.Infrastructure\\FlightManagementSystem.Infrastructure.csproj|c:\\users\\clovi\\onedrive\\documents\\flightmanagementsystem\\flightmanagementsystem.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64C1F4F-B124-4C3A-BD53-B96598889A5F}|FlightManagementSystem.Infrastructure\\FlightManagementSystem.Infrastructure.csproj|solutionrelative:flightmanagementsystem.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77826F7-12E8-4F98-88C4-DBA28D06EF82}|FlightManagementSystem.Web\\FlightManagementSystem.Web.csproj|c:\\users\\clovi\\onedrive\\documents\\flightmanagementsystem\\flightmanagementsystem.web\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77826F7-12E8-4F98-88C4-DBA28D06EF82}|FlightManagementSystem.Web\\FlightManagementSystem.Web.csproj|solutionrelative:flightmanagementsystem.web\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B698AE29-1F13-43DB-8CBC-46CCA380ABDC}|FlightManagementSystem.Application\\FlightManagementSystem.Application.csproj|c:\\users\\clovi\\onedrive\\documents\\flightmanagementsystem\\flightmanagementsystem.application\\flights\\services\\flightcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B698AE29-1F13-43DB-8CBC-46CCA380ABDC}|FlightManagementSystem.Application\\FlightManagementSystem.Application.csproj|solutionrelative:flightmanagementsystem.application\\flights\\services\\flightcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B698AE29-1F13-43DB-8CBC-46CCA380ABDC}|FlightManagementSystem.Application\\FlightManagementSystem.Application.csproj|c:\\users\\clovi\\onedrive\\documents\\flightmanagementsystem\\flightmanagementsystem.application\\flights\\queries\\getflights\\getflightshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B698AE29-1F13-43DB-8CBC-46CCA380ABDC}|FlightManagementSystem.Application\\FlightManagementSystem.Application.csproj|solutionrelative:flightmanagementsystem.application\\flights\\queries\\getflights\\getflightshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B698AE29-1F13-43DB-8CBC-46CCA380ABDC}|FlightManagementSystem.Application\\FlightManagementSystem.Application.csproj|c:\\users\\clovi\\onedrive\\documents\\flightmanagementsystem\\flightmanagementsystem.application\\flights\\queries\\getflightbyid\\getflightbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B698AE29-1F13-43DB-8CBC-46CCA380ABDC}|FlightManagementSystem.Application\\FlightManagementSystem.Application.csproj|solutionrelative:flightmanagementsystem.application\\flights\\queries\\getflightbyid\\getflightbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B698AE29-1F13-43DB-8CBC-46CCA380ABDC}|FlightManagementSystem.Application\\FlightManagementSystem.Application.csproj|c:\\users\\clovi\\onedrive\\documents\\flightmanagementsystem\\flightmanagementsystem.application\\flights\\queries\\getairports\\getairportshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B698AE29-1F13-43DB-8CBC-46CCA380ABDC}|FlightManagementSystem.Application\\FlightManagementSystem.Application.csproj|solutionrelative:flightmanagementsystem.application\\flights\\queries\\getairports\\getairportshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B698AE29-1F13-43DB-8CBC-46CCA380ABDC}|FlightManagementSystem.Application\\FlightManagementSystem.Application.csproj|c:\\users\\clovi\\onedrive\\documents\\flightmanagementsystem\\flightmanagementsystem.application\\flights\\queries\\getaircraft\\getaircrafthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B698AE29-1F13-43DB-8CBC-46CCA380ABDC}|FlightManagementSystem.Application\\FlightManagementSystem.Application.csproj|solutionrelative:flightmanagementsystem.application\\flights\\queries\\getaircraft\\getaircrafthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B698AE29-1F13-43DB-8CBC-46CCA380ABDC}|FlightManagementSystem.Application\\FlightManagementSystem.Application.csproj|c:\\users\\clovi\\onedrive\\documents\\flightmanagementsystem\\flightmanagementsystem.application\\flights\\commands\\updateflight\\updateflighthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B698AE29-1F13-43DB-8CBC-46CCA380ABDC}|FlightManagementSystem.Application\\FlightManagementSystem.Application.csproj|solutionrelative:flightmanagementsystem.application\\flights\\commands\\updateflight\\updateflighthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlightRepository.cs",
+              "DocumentMoniker": "C:\\Users\\clovi\\OneDrive\\Documents\\FlightManagementSystem\\FlightManagementSystem.Infrastructure\\Persistence\\Repositories\\FlightRepository.cs",
+              "RelativeDocumentMoniker": "FlightManagementSystem.Infrastructure\\Persistence\\Repositories\\FlightRepository.cs",
+              "ToolTip": "C:\\Users\\clovi\\OneDrive\\Documents\\FlightManagementSystem\\FlightManagementSystem.Infrastructure\\Persistence\\Repositories\\FlightRepository.cs",
+              "RelativeToolTip": "FlightManagementSystem.Infrastructure\\Persistence\\Repositories\\FlightRepository.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAkwEQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T13:49:10.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AirportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\clovi\\OneDrive\\Documents\\FlightManagementSystem\\FlightManagementSystem.Infrastructure\\Persistence\\Repositories\\AirportRepository.cs",
+              "RelativeDocumentMoniker": "FlightManagementSystem.Infrastructure\\Persistence\\Repositories\\AirportRepository.cs",
+              "ToolTip": "C:\\Users\\clovi\\OneDrive\\Documents\\FlightManagementSystem\\FlightManagementSystem.Infrastructure\\Persistence\\Repositories\\AirportRepository.cs",
+              "RelativeToolTip": "FlightManagementSystem.Infrastructure\\Persistence\\Repositories\\AirportRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T13:48:28.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AircraftRepository.cs",
+              "DocumentMoniker": "C:\\Users\\clovi\\OneDrive\\Documents\\FlightManagementSystem\\FlightManagementSystem.Infrastructure\\Persistence\\Repositories\\AircraftRepository.cs",
+              "RelativeDocumentMoniker": "FlightManagementSystem.Infrastructure\\Persistence\\Repositories\\AircraftRepository.cs",
+              "ToolTip": "C:\\Users\\clovi\\OneDrive\\Documents\\FlightManagementSystem\\FlightManagementSystem.Infrastructure\\Persistence\\Repositories\\AircraftRepository.cs",
+              "RelativeToolTip": "FlightManagementSystem.Infrastructure\\Persistence\\Repositories\\AircraftRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T13:47:36.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\clovi\\OneDrive\\Documents\\FlightManagementSystem\\FlightManagementSystem.Infrastructure\\Persistence\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "FlightManagementSystem.Infrastructure\\Persistence\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\clovi\\OneDrive\\Documents\\FlightManagementSystem\\FlightManagementSystem.Infrastructure\\Persistence\\UnitOfWork.cs",
+              "RelativeToolTip": "FlightManagementSystem.Infrastructure\\Persistence\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T13:46:47.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\clovi\\OneDrive\\Documents\\FlightManagementSystem\\FlightManagementSystem.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FlightManagementSystem.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\clovi\\OneDrive\\Documents\\FlightManagementSystem\\FlightManagementSystem.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "FlightManagementSystem.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T13:45:22.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FlightController.cs",
+              "DocumentMoniker": "C:\\Users\\clovi\\OneDrive\\Documents\\FlightManagementSystem\\FlightManagementSystem.Web\\Controllers\\FlightController.cs",
+              "RelativeDocumentMoniker": "FlightManagementSystem.Web\\Controllers\\FlightController.cs",
+              "ToolTip": "C:\\Users\\clovi\\OneDrive\\Documents\\FlightManagementSystem\\FlightManagementSystem.Web\\Controllers\\FlightController.cs",
+              "RelativeToolTip": "FlightManagementSystem.Web\\Controllers\\FlightController.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAYwKMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T13:42:14.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FlightCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\clovi\\OneDrive\\Documents\\FlightManagementSystem\\FlightManagementSystem.Application\\Flights\\Services\\FlightCalculator.cs",
+              "RelativeDocumentMoniker": "FlightManagementSystem.Application\\Flights\\Services\\FlightCalculator.cs",
+              "ToolTip": "C:\\Users\\clovi\\OneDrive\\Documents\\FlightManagementSystem\\FlightManagementSystem.Application\\Flights\\Services\\FlightCalculator.cs",
+              "RelativeToolTip": "FlightManagementSystem.Application\\Flights\\Services\\FlightCalculator.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T13:36:23.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetFlightsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\clovi\\OneDrive\\Documents\\FlightManagementSystem\\FlightManagementSystem.Application\\Flights\\Queries\\GetFlights\\GetFlightsHandler.cs",
+              "RelativeDocumentMoniker": "FlightManagementSystem.Application\\Flights\\Queries\\GetFlights\\GetFlightsHandler.cs",
+              "ToolTip": "C:\\Users\\clovi\\OneDrive\\Documents\\FlightManagementSystem\\FlightManagementSystem.Application\\Flights\\Queries\\GetFlights\\GetFlightsHandler.cs",
+              "RelativeToolTip": "FlightManagementSystem.Application\\Flights\\Queries\\GetFlights\\GetFlightsHandler.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwBoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T13:35:14.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetFlightByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\clovi\\OneDrive\\Documents\\FlightManagementSystem\\FlightManagementSystem.Application\\Flights\\Queries\\GetFlightById\\GetFlightByIdHandler.cs",
+              "RelativeDocumentMoniker": "FlightManagementSystem.Application\\Flights\\Queries\\GetFlightById\\GetFlightByIdHandler.cs",
+              "ToolTip": "C:\\Users\\clovi\\OneDrive\\Documents\\FlightManagementSystem\\FlightManagementSystem.Application\\Flights\\Queries\\GetFlightById\\GetFlightByIdHandler.cs",
+              "RelativeToolTip": "FlightManagementSystem.Application\\Flights\\Queries\\GetFlightById\\GetFlightByIdHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T13:33:35.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAirportsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\clovi\\OneDrive\\Documents\\FlightManagementSystem\\FlightManagementSystem.Application\\Flights\\Queries\\GetAirports\\GetAirportsHandler.cs",
+              "RelativeDocumentMoniker": "FlightManagementSystem.Application\\Flights\\Queries\\GetAirports\\GetAirportsHandler.cs",
+              "ToolTip": "C:\\Users\\clovi\\OneDrive\\Documents\\FlightManagementSystem\\FlightManagementSystem.Application\\Flights\\Queries\\GetAirports\\GetAirportsHandler.cs",
+              "RelativeToolTip": "FlightManagementSystem.Application\\Flights\\Queries\\GetAirports\\GetAirportsHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T13:33:16.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetAircraftHandler.cs",
+              "DocumentMoniker": "C:\\Users\\clovi\\OneDrive\\Documents\\FlightManagementSystem\\FlightManagementSystem.Application\\Flights\\Queries\\GetAircraft\\GetAircraftHandler.cs",
+              "RelativeDocumentMoniker": "FlightManagementSystem.Application\\Flights\\Queries\\GetAircraft\\GetAircraftHandler.cs",
+              "ToolTip": "C:\\Users\\clovi\\OneDrive\\Documents\\FlightManagementSystem\\FlightManagementSystem.Application\\Flights\\Queries\\GetAircraft\\GetAircraftHandler.cs",
+              "RelativeToolTip": "FlightManagementSystem.Application\\Flights\\Queries\\GetAircraft\\GetAircraftHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T13:32:51.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateFlightHandler.cs",
+              "DocumentMoniker": "C:\\Users\\clovi\\OneDrive\\Documents\\FlightManagementSystem\\FlightManagementSystem.Application\\Flights\\Commands\\UpdateFlight\\UpdateFlightHandler.cs",
+              "RelativeDocumentMoniker": "FlightManagementSystem.Application\\Flights\\Commands\\UpdateFlight\\UpdateFlightHandler.cs",
+              "ToolTip": "C:\\Users\\clovi\\OneDrive\\Documents\\FlightManagementSystem\\FlightManagementSystem.Application\\Flights\\Commands\\UpdateFlight\\UpdateFlightHandler.cs",
+              "RelativeToolTip": "FlightManagementSystem.Application\\Flights\\Commands\\UpdateFlight\\UpdateFlightHandler.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwCAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T13:31:38.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

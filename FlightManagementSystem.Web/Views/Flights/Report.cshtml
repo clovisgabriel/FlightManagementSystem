@@ -1,0 +1,63 @@
+﻿@model FlightManagementSystem.Application.Flights.DTO.Responses.FlightReportResponse
+
+@{
+    ViewData["Title"] = "Flight Report";
+}
+
+<h2>Flight Report</h2>
+
+<hr />
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+
+    <div style="padding: 15px; border: 1px solid #ccc; border-radius: 8px; min-width: 200px;">
+        <h4>Total Flights</h4>
+        <p>@Model.TotalFlights</p>
+    </div>
+
+    <div style="padding: 15px; border: 1px solid #ccc; border-radius: 8px; min-width: 200px;">
+        <h4>Total Distance</h4>
+        <p>@Model.TotalDistanceKm km</p>
+    </div>
+
+    <div style="padding: 15px; border: 1px solid #ccc; border-radius: 8px; min-width: 200px;">
+        <h4>Total Fuel Required</h4>
+        <p>@Model.TotalFuelRequired</p>
+    </div>
+
+    <div style="padding: 15px; border: 1px solid #ccc; border-radius: 8px; min-width: 200px;">
+        <h4>Average Distance</h4>
+        <p>@Model.AverageDistanceKm km</p>
+    </div>
+
+    <div style="padding: 15px; border: 1px solid #ccc; border-radius: 8px; min-width: 200px;">
+        <h4>Most Used Aircraft</h4>
+        <p>@Model.MostUsedAircraft</p>
+    </div>
+
+    <div style="padding: 15px; border: 1px solid #ccc; border-radius: 8px; min-width: 200px;">
+        <h4>Most Used Departure Airport</h4>
+        <p>@Model.MostUsedDepartureAirport</p>
+    </div>
+
+    <div style="padding: 15px; border: 1px solid #ccc; border-radius: 8px; min-width: 200px;">
+        <h4>Most Used Destination Airport</h4>
+        <p>@Model.MostUsedDestinationAirport</p>
+    </div>
+
+    <div style="padding: 15px; border: 1px solid #ccc; border-radius: 8px; min-width: 200px;">
+        <h4>Longest Flight</h4>
+        <p>@Model.LongestFlightKm km</p>
+    </div>
+
+    <div style="padding: 15px; border: 1px solid #ccc; border-radius: 8px; min-width: 200px;">
+        <h4>Shortest Flight</h4>
+        <p>@Model.ShortestFlightKm km</p>
+    </div>
+
+    <div style="padding: 15px; border: 1px solid #ccc; border-radius: 8px; min-width: 200px;">
+        <h4>Total Fuel Cost</h4>
+        <p>€@Model.TotalFuelCost</p>
+    </div>
+
+</div>

@@ -1,0 +1,11 @@
+C:\Users\clovi\OneDrive\Documents\FlightManagementSystem\FlightManagementSystem.Domain\bin\Debug\net8.0\FlightManagementSystem.Domain.deps.json
+C:\Users\clovi\OneDrive\Documents\FlightManagementSystem\FlightManagementSystem.Domain\bin\Debug\net8.0\FlightManagementSystem.Domain.dll
+C:\Users\clovi\OneDrive\Documents\FlightManagementSystem\FlightManagementSystem.Domain\bin\Debug\net8.0\FlightManagementSystem.Domain.pdb
+C:\Users\clovi\OneDrive\Documents\FlightManagementSystem\FlightManagementSystem.Domain\obj\Debug\net8.0\FlightManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clovi\OneDrive\Documents\FlightManagementSystem\FlightManagementSystem.Domain\obj\Debug\net8.0\FlightManagementSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\clovi\OneDrive\Documents\FlightManagementSystem\FlightManagementSystem.Domain\obj\Debug\net8.0\FlightManagementSystem.Domain.AssemblyInfo.cs
+C:\Users\clovi\OneDrive\Documents\FlightManagementSystem\FlightManagementSystem.Domain\obj\Debug\net8.0\FlightManagementSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\clovi\OneDrive\Documents\FlightManagementSystem\FlightManagementSystem.Domain\obj\Debug\net8.0\FlightManagementSystem.Domain.dll
+C:\Users\clovi\OneDrive\Documents\FlightManagementSystem\FlightManagementSystem.Domain\obj\Debug\net8.0\refint\FlightManagementSystem.Domain.dll
+C:\Users\clovi\OneDrive\Documents\FlightManagementSystem\FlightManagementSystem.Domain\obj\Debug\net8.0\FlightManagementSystem.Domain.pdb
+C:\Users\clovi\OneDrive\Documents\FlightManagementSystem\FlightManagementSystem.Domain\obj\Debug\net8.0\ref\FlightManagementSystem.Domain.dll
